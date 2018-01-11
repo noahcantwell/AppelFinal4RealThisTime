@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=BouncyBallBag
+comment0.text=\r\n\ BouncyBallBag\ Class\ -\ Bag\ of\ multiple\ bounce\ balls\r\n\r\n\ Noah\ Cantwell\r\n\ APCSA\ Period\ 3\r\n
+comment1.params=cost\ size
+comment1.target=BouncyBallBag(double,\ int)
+comment2.params=
+comment2.target=double\ getPrice()
+comment3.params=
+comment3.target=BouncyBall[]\ getBallList()
+comment4.params=newPrice
+comment4.target=void\ setPrice(double)
+comment5.params=b\ spot
+comment5.target=void\ addBall(BouncyBall,\ int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=ballList
+comment7.target=int\ compareTo(java.lang.Object)
+numComments=8
